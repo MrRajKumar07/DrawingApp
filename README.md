@@ -1,2 +1,2 @@
 # DrawingApp
-Using Java Swing And Applet to design a real time drawing Application
+Using Java Swing And Applet to Fram a design of real time drawing Application to draw anything whatever you want...
